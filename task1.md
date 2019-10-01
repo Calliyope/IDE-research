@@ -89,18 +89,17 @@
 
 <p>10. A code block</p>
 <code>
-        <div class=default>
-                <p> Learning is a journey, tuition is a map </p>
-</code>
+    <p> Learning is a journey, tuition is a map </p>
+                </code>
 
 <p>11. A task list</p>
         <h4>My To Do List</h4>
        
-      <ul>
+<ul>
         <li>Go to BeCode</li>
         <li>Feed cats</li>
         <li>Take a bike ride</li>
-      </ul> 
+</ul> 
 
 <p>12. An emoji</p>
 <p>A catmoji? &#128008;</p>
