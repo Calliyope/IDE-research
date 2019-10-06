@@ -93,12 +93,16 @@
 
 <p>11. A task list</p>
         <h4>My To Do List</h4>
-       
-<ul>
-        <li>Go to BeCode</li>
-        <li>Feed cats</li>
-        <li>Take a bike ride</li>
-</ul> 
+
+<div> 
+	<input type="checkbox" /> Go to BeCode
+</div>
+<div> 
+	<input type="checkbox" /> Feed cats
+</div>
+<div> 
+	<input type="checkbox" /> Take a bike ride
+</div> 
 
 <p>12. An emoji</p>
 <p>A catmoji? &#128008;</p>
